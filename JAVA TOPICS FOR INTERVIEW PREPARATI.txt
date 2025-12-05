@@ -1,0 +1,14 @@
+JAVA TOPICS FOR INTERVIEW PREPARATION
+
+
+What is Constructor 
+Constructor is special non static members which is used to laod all the nin static members into an object such as nin static variables, methids and initializer
+
+Why use constructor ?
+We use constructor in order to load all non static members into an object
+
+Types of constructors?
+No Argument Constructors /default Constructors-A constructors which doesn't accept any arguments
+Parameterized Constructors- A constructor which accepts the arguments 
+Advantages of using Parameterized constructors :-We can initialize the objects at the time of object creation
+
